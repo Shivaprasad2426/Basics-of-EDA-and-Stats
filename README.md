@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @SHIVAPRASAD GOUD
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning new things
-- 💞️ I’m looking to collaborate on exellence team work
+# Basics of EDA and Stats
 
+Config files for my GitHub profile.
 
-<!---
-SHIVA/SHIVAPRASAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Description
+
+This repository contains various Jupyter Notebooks that cover the basics of Exploratory Data Analysis (EDA) and statistical concepts.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To get started with this project, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Shivaprasad2426/Basics-of-EDA-and-Stats.git
